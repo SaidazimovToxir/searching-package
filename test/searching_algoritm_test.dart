@@ -1,4 +1,4 @@
-import 'package:searching_algoritm/src/searching_algoritm_base.dart';
+import 'package:searching_algoritm_uz/searching_algoritm.dart';
 import 'package:test/test.dart';
 
 void main() {

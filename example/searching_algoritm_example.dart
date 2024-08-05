@@ -1,4 +1,4 @@
-import 'package:searching_algoritm/searching_algoritm.dart';
+import 'package:searching_algoritm_uz/searching_algoritm.dart';
 
 void main() {
   // List of integers
