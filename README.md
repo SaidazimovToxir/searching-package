@@ -14,4 +14,4 @@ First, add the dependency in your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  search_algorithms: ^1.0.0
+  search_algorithmUz: ^1.0.0

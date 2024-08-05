@@ -1,7 +1,7 @@
 import 'dart:math';
 import 'dart:core';
 
-class SearchAlgorithms {
+class SearchAlgorithmUz {
   // Linear Search
   static Map<String, dynamic> linearSearch<T>(List<T> list, T element) {
     final stopwatch = Stopwatch()..start();
